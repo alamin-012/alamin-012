@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 
 <!---
-alamin-012/alamin-012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your Git
+alamin-012/alamin-012 is a ✨ special ✨ repository because its `love
+
+.md` (this file) appears on your Git
 Hub profile.
 You can click the Preview link to take a look at your changes.
 ---> termux 
